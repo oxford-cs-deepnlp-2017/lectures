@@ -5,7 +5,7 @@ This is an advanced course on natural language processing. Automatically process
 
 This is an applied course focussing on recent advances in analysing and generating speech and text using recurrent neural networks. We introduce the mathematical definitions of the relevant machine learning models and derive their associated optimisation algorithms. The course covers a range of applications of neural networks in NLP including analysing latent dimensions in text, transcribing speech to text, translating between languages, and answering questions. These topics are organised into three high level themes forming a progression from understanding the use of neural networks for sequential language modelling, to understanding their use as conditional language models for transduction tasks, and finally to approaches employing these techniques in combination with other mechanisms for advanced applications. Throughout the course the practical implementation of such models on CPU and GPU hardware is also discussed.
 
-This course was organised by Phil Blunsom and delivered in partnership with the DeepMind Natural Language Research Group. L
+This course is organised by Phil Blunsom and delivered in partnership with the DeepMind Natural Language Research Group.
 
 # Lecturers
 * Phil Blunsom (Oxford University and DeepMind)
