@@ -21,7 +21,7 @@ This course is organised by Phil Blunsom and delivered in partnership with the D
  * Group 1 - Monday, 9:00-11:00 (Weeks 2-8), 60.05 Thom Building
  * Group 2 - Friday, 16:00-18:00 (Weeks 2-8), Room 379
 
-## Lecture
+## Lectures
 Public Lectures are held in Lecture Theatre 1 of the Maths Institute, on Tuesdays and Thursdays, 16:00-18:00 (Hilary Term Weeks 1,3,4,5,6,7,8).
 
 # Lecture Materials
