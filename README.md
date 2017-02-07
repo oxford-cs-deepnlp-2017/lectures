@@ -16,7 +16,15 @@ This course is organised by Phil Blunsom and delivered in partnership with the D
 * Wang Ling (DeepMind)
 * Jeremy Appleyard (NVIDIA)
 
-# Lectures
+# Timetable
+## Practicals
+ * Group 1 - Monday, 9:00-11:00 (Weeks 2-8), 60.05 Thom Building
+ * Group 2 - Friday, 16:00-18:00 (Weeks 2-8), Room 379
+
+## Lecture
+Public Lectures are held in Lecture Theatre 1 of the Maths Institute, on Tuesdays and Thursdays, 16:00-18:00 (Hilary Term Weeks 1,3,4,5,6,7,8).
+
+# Lecture Materials
 ## 1. Lecture 1a - Introduction [Phil Blunsom]
 This lecture introduces the course and motivates why it is interesting to study language processing using Deep Learning techniques.
 
@@ -58,7 +66,7 @@ Language modelling is important task of great practical use in many NLP applicat
  * [Explaining and illustrating orthogonal initialization for recurrent neural networks](http://smerity.com/articles/2016/orthogonal_init.html), Stephen Merity.
 
 ## 6. Lecture 4 - Language Modelling and RNNs Part 2 [Phil Blunsom]
-This lecture continues on from the previous one and considers some of the issues involved in producing an effective implementation of an RNN language model. The vanishing and exploding gradient problem is described and architectural solutions, such as Long Short Term Memory (LSTM), are introducted. 
+This lecture continues on from the previous one and considers some of the issues involved in producing an effective implementation of an RNN language model. The vanishing and exploding gradient problem is described and architectural solutions, such as Long Short Term Memory (LSTM), are introduced. 
 
 [[slides]](https://github.com/oxford-cs-deepnlp-2017/lectures/blob/master/Lecture%204%20-%20Language%20Modelling%20and%20RNNs%20Part%202.pdf)
 [[video]](https://ox.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=fa8df3a8-e7e5-4044-9199-751bcf0a9298)
@@ -91,6 +99,12 @@ This lecture continues on from the previous one and considers some of the issues
 * [Recurrent Highway Networks. Zilly et al., arXiv 2016.](https://arxiv.org/abs/1607.03474)
 * [Capacity and Trainability in Recurrent Neural Networks. Collins et al., arXiv 2016.](https://arxiv.org/abs/1611.09913)
 * [Optimizing Performance of Recurrent Neural Networks on GPUs. Appleyard et al., arXiv 2016.](https://arxiv.org/abs/1604.01946)
+
+## 7. Lecture 5 - (Coming Soon) Text Classification [Karl Moritz Hermann]
+[slides] [video]
+
+## 8. Lecture 6 - (Coming Soon) Deep NLP on Nvidia GPUs [Jeremy Appleyard]
+[slides] [video]
 
 # Piazza
 We will be using Piazza to facilitate class discussion during the course. Rather than emailing questions directly, I encourage you to post your questions on Piazza to be answered by your fellow students, instructors, and lecturers. However do please do note that all the lecturers for this course are volunteering their time and may not always be available to give a reponse.
