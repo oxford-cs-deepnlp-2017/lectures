@@ -24,7 +24,7 @@ This lecture introduces the course and motivates why it is interesting to study 
 [[video]](https://ox.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=ff91caf5-fa7c-42de-8b3d-41f4bc2365b4)
 
 ### 2. Lecture 1b - Deep Neural Networks Are Our Friends [Wang Ling]
-This lecture revises basic machine learning cocepts that students should know before embarking on this course.
+This lecture revises basic machine learning concepts that students should know before embarking on this course.
 
 [[slides]](Lecture 1b - Deep Neural Networks Are Our Friends.pdf)
 [[video]](https://ox.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=b7d66d78-0deb-46d5-bc14-b1852b9d95e8)
@@ -56,4 +56,4 @@ This lecture continues on from the previous one and considers some of the issues
 # Assessment
 The primary assessment for this course will be a take-home assignment issued at the end of the term. This assignment will ask questions drawing on the concepts and models discussed in the course, as well as from selected research publications. The nature of the questions will include analysing mathematical descriptions of models and proposing extensions, improvements, or evaluations to such models. The assignment may also ask students to read specific research publications and discuss their proposed algorithms in the context of the course. In answering questions students will be expected to both present coherent written arguments and use appropriate mathematical formulae, and possibly pseudo-code, to illustrate answers.
 
-The pratical component of the course will be assessed in the usual way.
+The practical component of the course will be assessed in the usual way.
