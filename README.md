@@ -22,13 +22,13 @@ This course is organised by Phil Blunsom and delivered in partnership with the D
  * Group 2 - Friday, 16:00-18:00 (Weeks 2-8), Room 379
 
 ## Lectures
-Public Lectures are held in Lecture Theatre 1 of the Maths Institute, on Tuesdays and Thursdays, 16:00-18:00 (Hilary Term Weeks 1,3,4,5,6,7,8).
+Public Lectures are held in Lecture Theatre 1 of the Maths Institute, on Tuesdays and Thursdays, 16:00-18:00 (Hilary Term Weeks 1,3-8).
 
 # Lecture Materials
 ## 1. Lecture 1a - Introduction [Phil Blunsom]
 This lecture introduces the course and motivates why it is interesting to study language processing using Deep Learning techniques.
 
-[[slides]](https://github.com/oxford-cs-deepnlp-2017/lectures/blob/master/Lecture%201a%20-%20Introduction.pdf)
+[[slides]](Lecture 1a - Introduction.pdf)
 [[video]](https://ox.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=ff91caf5-fa7c-42de-8b3d-41f4bc2365b4)
 
 ## 2. Lecture 1b - Deep Neural Networks Are Our Friends [Wang Ling]
@@ -40,19 +40,19 @@ This lecture revises basic machine learning concepts that students should know b
 ## 3. Lecture 2a- Word Level Semantics [Ed Grefenstette]
 Words are the core meaning bearing units in language. Representing and learning the meanings of words is a fundamental task in NLP and in this lecture the concept of a word embedding is introduced as a practical and scalable solution.
 
-[[slides]](https://github.com/oxford-cs-deepnlp-2017/lectures/blob/master/Lecture%202a-%20Word%20Level%20Semantics.pdf)
+[[slides]](Lecture 2a- Word Level Semantics.pdf)
 [[video]](https://ox.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=b8531095-9de9-4d4e-bebd-e4272b90ca39)
 
 ## 4. Lecture 2b - Overview of the Practicals [Chris Dyer]
 This lecture motivates the practical segment of the course.
 
-[[slides]](https://github.com/oxford-cs-deepnlp-2017/lectures/blob/master/Lecture%202b%20-%20Overview%20of%20the%20Practicals.pdf)
+[[slides]](Lecture 2b - Overview of the Practicals.pdf)
 [[video]](https://ox.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=2ddf7182-43db-44f5-b62a-45e0dfa4f37b)
 
 ## 5. Lecture 3 - Language Modelling and RNNs Part 1 [Phil Blunsom]
 Language modelling is important task of great practical use in many NLP applications. This lecture introduces language modelling, including traditional n-gram based approaches and more contemporary neural approaches. In particular the popular Recurrent Neural Network (RNN) language model is introduced and its basic training and evaluation algorithms described.
 
-[[slides]](https://github.com/oxford-cs-deepnlp-2017/lectures/blob/master/Lecture%203%20-%20Language%20Modelling%20and%20RNNs%20Part%201.pdf)
+[[slides]](Lecture 3 - Language Modelling and RNNs Part 1.pdf)
 [[video]](https://ox.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=6bf19af4-d7b3-4ac9-89a1-b719bdd0c2bd)
 
 ### Reading
@@ -68,7 +68,7 @@ Language modelling is important task of great practical use in many NLP applicat
 ## 6. Lecture 4 - Language Modelling and RNNs Part 2 [Phil Blunsom]
 This lecture continues on from the previous one and considers some of the issues involved in producing an effective implementation of an RNN language model. The vanishing and exploding gradient problem is described and architectural solutions, such as Long Short Term Memory (LSTM), are introduced. 
 
-[[slides]](https://github.com/oxford-cs-deepnlp-2017/lectures/blob/master/Lecture%204%20-%20Language%20Modelling%20and%20RNNs%20Part%202.pdf)
+[[slides]](Lecture 4 - Language Modelling and RNNs Part 2.pdf)
 [[video]](https://ox.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=fa8df3a8-e7e5-4044-9199-751bcf0a9298)
 
 ### Reading
@@ -100,8 +100,18 @@ This lecture continues on from the previous one and considers some of the issues
 * [Capacity and Trainability in Recurrent Neural Networks. Collins et al., arXiv 2016.](https://arxiv.org/abs/1611.09913)
 * [Optimizing Performance of Recurrent Neural Networks on GPUs. Appleyard et al., arXiv 2016.](https://arxiv.org/abs/1604.01946)
 
-## 7. Lecture 5 - (Coming Soon) Text Classification [Karl Moritz Hermann]
-[slides] [video]
+## 7. Lecture 5 - Text Classification [Karl Moritz Hermann]
+This lecture discusses text classification, beginning with basic classifiers, such as Naive Bayes, and progressing through to RNNs and Convolution Networks.
+
+[[slides]](Lecture 5 - Text Classification.pdf) 
+[[video]](https://ox.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=dbc0d5cb-4d24-41be-a988-85a08eb1b2f7)
+
+### Reading
+ * [Recurrent Convolutional Neural Networks for Text Classification. Lai et al. AAAI 2015.](http://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/download/9745/9552) 
+ * [A Convolutional Neural Network for Modelling Sentences, Kalchbrenner et al. ACL 2014.](http://www.aclweb.org/anthology/P14-1062)
+ * [Semantic compositionality through recursive matrix-vector, Socher et al. EMNLP 2012.](http://nlp.stanford.edu/pubs/SocherHuvalManningNg_EMNLP2012.pdf)
+ * Blog: [Understanding Convolution Neural Networks For NLP](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/), Denny Britz.
+ * Thesis: [Distributional Representations for Compositional Semantics, Hermann (2014).](https://arxiv.org/abs/1411.3146)
 
 ## 8. Lecture 6 - (Coming Soon) Deep NLP on Nvidia GPUs [Jeremy Appleyard]
 [slides] [video]
