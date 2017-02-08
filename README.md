@@ -29,31 +29,31 @@ Public Lectures are held in Lecture Theatre 1 of the Maths Institute, on Tuesday
 This lecture introduces the course and motivates why it is interesting to study language processing using Deep Learning techniques.
 
 [[slides]](Lecture 1a - Introduction.pdf)
-[[video]](https://ox.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=ff91caf5-fa7c-42de-8b3d-41f4bc2365b4)
+[[video]](http://media.podcasts.ox.ac.uk/comlab/deep_learning_NLP/2017-01_deep_NLP_1a_intro.mp4)
 
 ## 2. Lecture 1b - Deep Neural Networks Are Our Friends [Wang Ling]
 This lecture revises basic machine learning concepts that students should know before embarking on this course.
 
 [[slides]](Lecture 1b - Deep Neural Networks Are Our Friends.pdf)
-[[video]](https://ox.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=b7d66d78-0deb-46d5-bc14-b1852b9d95e8)
+[[video]](http://media.podcasts.ox.ac.uk/comlab/deep_learning_NLP/2017-01_deep_NLP_1b_friends.mp4)
 
 ## 3. Lecture 2a- Word Level Semantics [Ed Grefenstette]
 Words are the core meaning bearing units in language. Representing and learning the meanings of words is a fundamental task in NLP and in this lecture the concept of a word embedding is introduced as a practical and scalable solution.
 
 [[slides]](Lecture 2a- Word Level Semantics.pdf)
-[[video]](https://ox.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=b8531095-9de9-4d4e-bebd-e4272b90ca39)
+[[video]](http://media.podcasts.ox.ac.uk/comlab/deep_learning_NLP/2017-01_deep_NLP_2a_lexical_semantics.mp4)
 
 ## 4. Lecture 2b - Overview of the Practicals [Chris Dyer]
 This lecture motivates the practical segment of the course.
 
 [[slides]](Lecture 2b - Overview of the Practicals.pdf)
-[[video]](https://ox.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=2ddf7182-43db-44f5-b62a-45e0dfa4f37b)
+[[video]](http://media.podcasts.ox.ac.uk/comlab/deep_learning_NLP/2017-01_deep_NLP_2b_practicals.mp4)
 
 ## 5. Lecture 3 - Language Modelling and RNNs Part 1 [Phil Blunsom]
 Language modelling is important task of great practical use in many NLP applications. This lecture introduces language modelling, including traditional n-gram based approaches and more contemporary neural approaches. In particular the popular Recurrent Neural Network (RNN) language model is introduced and its basic training and evaluation algorithms described.
 
 [[slides]](Lecture 3 - Language Modelling and RNNs Part 1.pdf)
-[[video]](https://ox.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=6bf19af4-d7b3-4ac9-89a1-b719bdd0c2bd)
+[[video]](http://media.podcasts.ox.ac.uk/comlab/deep_learning_NLP/2017-01_deep_NLP_3_modelling_1.mp4)
 
 ### Reading
 
@@ -69,7 +69,7 @@ Language modelling is important task of great practical use in many NLP applicat
 This lecture continues on from the previous one and considers some of the issues involved in producing an effective implementation of an RNN language model. The vanishing and exploding gradient problem is described and architectural solutions, such as Long Short Term Memory (LSTM), are introduced. 
 
 [[slides]](Lecture 4 - Language Modelling and RNNs Part 2.pdf)
-[[video]](https://ox.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=fa8df3a8-e7e5-4044-9199-751bcf0a9298)
+[[video]](http://media.podcasts.ox.ac.uk/comlab/deep_learning_NLP/2017-01_deep_NLP_4_modelling_2.mp4)
 
 ### Reading
 
