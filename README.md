@@ -16,6 +16,12 @@ This course is organised by Phil Blunsom and delivered in partnership with the D
 * Wang Ling (DeepMind)
 * Jeremy Appleyard (NVIDIA)
 
+# TAs
+* Yannis Assael
+* Yishu Miao
+* Brendan Shillingford
+* Jan Buys
+
 # Timetable
 ## Practicals
  * Group 1 - Monday, 9:00-11:00 (Weeks 2-8), 60.05 Thom Building
@@ -148,3 +154,6 @@ Find our class page at: https://piazza.com/ox.ac.uk/winter2017/dnlpht2017/home
 The primary assessment for this course will be a take-home assignment issued at the end of the term. This assignment will ask questions drawing on the concepts and models discussed in the course, as well as from selected research publications. The nature of the questions will include analysing mathematical descriptions of models and proposing extensions, improvements, or evaluations to such models. The assignment may also ask students to read specific research publications and discuss their proposed algorithms in the context of the course. In answering questions students will be expected to both present coherent written arguments and use appropriate mathematical formulae, and possibly pseudo-code, to illustrate answers.
 
 The practical component of the course will be assessed in the usual way.
+
+# Acknowledgements
+This course would not have been possible without the support of [DeepMind](http://www.deepmind.com), [The University of Oxford Department of Computer Science](http://www.cs.ox.ac.uk/), [Nvidia](http://www.nvidia.com), and the generous donation of GPU resources from [Microsoft Azure](https://azure.microsoft.com).
