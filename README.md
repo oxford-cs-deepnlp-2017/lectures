@@ -43,6 +43,29 @@ Words are the core meaning bearing units in language. Representing and learning 
 [[slides]](Lecture 2a- Word Level Semantics.pdf)
 [[video]](http://media.podcasts.ox.ac.uk/comlab/deep_learning_NLP/2017-01_deep_NLP_2a_lexical_semantics.mp4)
 
+### Reading
+
+#### Embeddings Basics
+* [Firth, John R. "A synopsis of linguistic theory, 1930-1955." (1957): 1-32.](http://annabellelukin.edublogs.org/files/2013/08/Firth-JR-1962-A-Synopsis-of-Linguistic-Theory-wfihi5.pdf)
+* [Curran, James Richard. "From distributional to semantic similarity." (2004).](https://www.era.lib.ed.ac.uk/bitstream/handle/1842/563/IP030023.pdf?sequence=2&isAllowed=y)
+* [Collobert, Ronan, et al. "Natural language processing (almost) from scratch." Journal of Machine Learning Research 12. Aug (2011): 2493-2537.](http://www.jmlr.org/papers/volume12/collobert11a/collobert11a.pdf)
+* [Mikolov, Tomas, et al. "Distributed representations of words and phrases and their compositionality." Advances in neural information processing systems. 2013.](http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)
+
+#### Datasets and Visualisation
+* [Finkelstein, Lev, et al. "Placing search in context: The concept revisited." Proceedings of the 10th international conference on World Wide Web. ACM, 2001.](http://www.iicm.tugraz.at/thesis/cguetl_diss/literatur/Kapitel07/References/Finkelstein_et_al._2002/p116-finkelstein.pdf)
+* [Hill, Felix, Roi Reichart, and Anna Korhonen. "Simlex-999: Evaluating semantic models with (genuine) similarity estimation." Computational Linguistics (2016).](http://www.aclweb.org/website/old_anthology/J/J15/J15-4004.pdf)
+* [Maaten, Laurens van der, and Geoffrey Hinton. "Visualizing data using t-SNE." Journal of Machine Learning Research 9.Nov (2008): 2579-2605.](http://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf)
+
+#### Blog posts
+* [Deep Learning, NLP, and Representations](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/), Christopher Olah.
+* [Visualizing Top Tweeps with t-SNE, in Javascript](http://karpathy.github.io/2014/07/02/visualizing-top-tweeps-with-t-sne-in-Javascript/), Andrej Karpathy.
+
+#### Further Reading
+* [Hermann, Karl Moritz, and Phil Blunsom. "Multilingual models for compositional distributed semantics." arXiv preprint arXiv:1404.4641 (2014).](https://arxiv.org/pdf/1404.4641.pdf)
+* [Levy, Omer, and Yoav Goldberg. "Neural word embedding as implicit matrix factorization." Advances in neural information processing systems. 2014.](http://u.cs.biu.ac.il/~nlp/wp-content/uploads/Neural-Word-Embeddings-as-Implicit-Matrix-Factorization-NIPS-2014.pdf)
+* [Levy, Omer, Yoav Goldberg, and Ido Dagan. "Improving distributional similarity with lessons learned from word embeddings." Transactions of the Association for Computational Linguistics 3 (2015): 211-225.](https://www.transacl.org/ojs/index.php/tacl/article/view/570/124)
+* [Ling, Wang, et al. "Two/Too Simple Adaptations of Word2Vec for Syntax Problems." HLT-NAACL. 2015.](https://www.aclweb.org/anthology/N/N15/N15-1142.pdf)
+
 ## 4. Lecture 2b - Overview of the Practicals [Chris Dyer]
 This lecture motivates the practical segment of the course.
 
