@@ -127,7 +127,6 @@ This lecture continues on from the previous one and considers some of the issues
 #### Other stuff
 * [Recurrent Highway Networks. Zilly et al., arXiv 2016.](https://arxiv.org/abs/1607.03474)
 * [Capacity and Trainability in Recurrent Neural Networks. Collins et al., arXiv 2016.](https://arxiv.org/abs/1611.09913)
-* [Optimizing Performance of Recurrent Neural Networks on GPUs. Appleyard et al., arXiv 2016.](https://arxiv.org/abs/1604.01946)
 
 ## 7. Lecture 5 - Text Classification [Karl Moritz Hermann]
 This lecture discusses text classification, beginning with basic classifiers, such as Naive Bayes, and progressing through to RNNs and Convolution Networks.
@@ -144,6 +143,9 @@ This lecture discusses text classification, beginning with basic classifiers, su
 
 ## 8. Lecture 6 - (Coming Soon) Deep NLP on Nvidia GPUs [Jeremy Appleyard]
 [slides] [video]
+
+### Reading
+* [Optimizing Performance of Recurrent Neural Networks on GPUs. Appleyard et al., arXiv 2016.](https://arxiv.org/abs/1604.01946)
 
 # Piazza
 We will be using Piazza to facilitate class discussion during the course. Rather than emailing questions directly, I encourage you to post your questions on Piazza to be answered by your fellow students, instructors, and lecturers. However do please do note that all the lecturers for this course are volunteering their time and may not always be available to give a reponse.
