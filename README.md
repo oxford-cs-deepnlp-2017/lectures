@@ -141,12 +141,17 @@ This lecture discusses text classification, beginning with basic classifiers, su
  * Blog: [Understanding Convolution Neural Networks For NLP](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/), Denny Britz.
  * Thesis: [Distributional Representations for Compositional Semantics, Hermann (2014).](https://arxiv.org/abs/1411.3146)
 
-## 8. Lecture 6 - (Coming Soon) Deep NLP on Nvidia GPUs [Jeremy Appleyard]
-[slides] 
+## 8. Lecture 6 - Deep NLP on Nvidia GPUs [Jeremy Appleyard]
+This lecture introduces Graphical Processing Units (GPUs) as an alternative to CPUs for executing Deep Learning algorithms. The strengths and weaknesses of GPUs are discussed as well as the importance of understanding how memory bandwidth and computation impact throughput for RNNs.
+
+[[slides]](Lecture 6 - Nvidia RNNs and GPUs.pdf)
 [[video]](https://ox.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=f53e1dee-4985-4b9c-b230-6667b9da4ec0)
 
 ### Reading
 * [Optimizing Performance of Recurrent Neural Networks on GPUs. Appleyard et al., arXiv 2016.](https://arxiv.org/abs/1604.01946)
+* [Persistent RNNs: Stashing Recurrent Weights On-Chip, Diamos et al., ICML 2016](http://jmlr.org/proceedings/papers/v48/diamos16.pdf)
+* [Efficient softmax approximation for GPUs. Grave et al., arXiv 2016.](https://arxiv.org/abs/1609.04309)
+
 
 # Piazza
 We will be using Piazza to facilitate class discussion during the course. Rather than emailing questions directly, I encourage you to post your questions on Piazza to be answered by your fellow students, instructors, and lecturers. However do please do note that all the lecturers for this course are volunteering their time and may not always be available to give a reponse.
