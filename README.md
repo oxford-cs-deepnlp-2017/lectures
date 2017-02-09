@@ -142,7 +142,8 @@ This lecture discusses text classification, beginning with basic classifiers, su
  * Thesis: [Distributional Representations for Compositional Semantics, Hermann (2014).](https://arxiv.org/abs/1411.3146)
 
 ## 8. Lecture 6 - (Coming Soon) Deep NLP on Nvidia GPUs [Jeremy Appleyard]
-[slides] [video]
+[slides] 
+[[video]](https://ox.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=f53e1dee-4985-4b9c-b230-6667b9da4ec0)
 
 ### Reading
 * [Optimizing Performance of Recurrent Neural Networks on GPUs. Appleyard et al., arXiv 2016.](https://arxiv.org/abs/1604.01946)
