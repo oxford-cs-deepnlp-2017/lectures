@@ -153,6 +153,23 @@ This lecture introduces Graphical Processing Units (GPUs) as an alternative to C
 * [Efficient softmax approximation for GPUs. Grave et al., arXiv 2016.](https://arxiv.org/abs/1609.04309)
 
 
+## 9. Lecture 7 - (Coming Soon) Conditional Language Models [Chris Dyer]
+[slides]
+[video]
+
+### Reading
+* [Sutskever et al. (2014) Sequence to Sequence Learning with Neural Networks.](https://arxiv.org/abs/1409.3215)
+
+
+## 10. Lecture 8 - (Coming Soon) Generating Language with Attention [Chris Dyer]
+[slides]
+[video]
+
+### Reading
+* [Bahdanau et al. (2015) Neural Machine Translation by Jointly Learning to Align and Translate.](https://arxiv.org/abs/1409.0473)
+* [Xu et al. (2015) Show, Attend, and Tell: Neural Image Caption Generation with Visual Attention.](https://arxiv.org/pdf/1502.03044.pdf)
+
+
 # Piazza
 We will be using Piazza to facilitate class discussion during the course. Rather than emailing questions directly, I encourage you to post your questions on Piazza to be answered by your fellow students, instructors, and lecturers. However do please do note that all the lecturers for this course are volunteering their time and may not always be available to give a reponse.
 
