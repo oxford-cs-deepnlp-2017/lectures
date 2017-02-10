@@ -132,7 +132,7 @@ This lecture continues on from the previous one and considers some of the issues
 This lecture discusses text classification, beginning with basic classifiers, such as Naive Bayes, and progressing through to RNNs and Convolution Networks.
 
 [[slides]](Lecture 5 - Text Classification.pdf) 
-[[video]](https://ox.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=dbc0d5cb-4d24-41be-a988-85a08eb1b2f7)
+[[video]](http://media.podcasts.ox.ac.uk/comlab/deep_learning_NLP/2017-01_deep_NLP_5_text_classification.mp4)
 
 ### Reading
  * [Recurrent Convolutional Neural Networks for Text Classification. Lai et al. AAAI 2015.](http://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/download/9745/9552) 
@@ -145,7 +145,7 @@ This lecture discusses text classification, beginning with basic classifiers, su
 This lecture introduces Graphical Processing Units (GPUs) as an alternative to CPUs for executing Deep Learning algorithms. The strengths and weaknesses of GPUs are discussed as well as the importance of understanding how memory bandwidth and computation impact throughput for RNNs.
 
 [[slides]](Lecture 6 - Nvidia RNNs and GPUs.pdf)
-[[video]](https://ox.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=f53e1dee-4985-4b9c-b230-6667b9da4ec0)
+[[video]](http://media.podcasts.ox.ac.uk/comlab/deep_learning_NLP/2017-01_deep_NLP_6_nvidia_gpus.mp4)
 
 ### Reading
 * [Optimizing Performance of Recurrent Neural Networks on GPUs. Appleyard et al., arXiv 2016.](https://arxiv.org/abs/1604.01946)
