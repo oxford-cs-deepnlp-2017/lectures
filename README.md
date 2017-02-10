@@ -171,7 +171,7 @@ This lecture introduces Graphical Processing Units (GPUs) as an alternative to C
 
 
 # Piazza
-We will be using Piazza to facilitate class discussion during the course. Rather than emailing questions directly, I encourage you to post your questions on Piazza to be answered by your fellow students, instructors, and lecturers. However do please do note that all the lecturers for this course are volunteering their time and may not always be available to give a reponse.
+We will be using Piazza to facilitate class discussion during the course. Rather than emailing questions directly, I encourage you to post your questions on Piazza to be answered by your fellow students, instructors, and lecturers. However do please do note that all the lecturers for this course are volunteering their time and may not always be available to give a response.
 
 Find our class page at: https://piazza.com/ox.ac.uk/winter2017/dnlpht2017/home
 
