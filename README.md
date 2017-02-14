@@ -26,6 +26,11 @@ This course is organised by Phil Blunsom and delivered in partnership with the D
 ## Practicals
  * Group 1 - Monday, 9:00-11:00 (Weeks 2-8), 60.05 Thom Building
  * Group 2 - Friday, 16:00-18:00 (Weeks 2-8), Room 379
+ 
+1. [Practical 1: word2vec](https://github.com/oxford-cs-deepnlp-2017/practical-1)
+2. [Practical 2: text classification](https://github.com/oxford-cs-deepnlp-2017/practical-2)
+3. [Practical 3: recurrent neural networks for text classification and language modelling](https://github.com/oxford-cs-deepnlp-2017/practical-3)
+4. [Practical 4: open practical](https://github.com/oxford-cs-deepnlp-2017/practical-open)
 
 ## Lectures
 Public Lectures are held in Lecture Theatre 1 of the Maths Institute, on Tuesdays and Thursdays, 16:00-18:00 (Hilary Term Weeks 1,3-8).
