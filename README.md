@@ -159,7 +159,7 @@ This lecture introduces Graphical Processing Units (GPUs) as an alternative to C
 
 
 ## 9. Lecture 7 - (Coming Soon) Conditional Language Models [Chris Dyer]
-[slides]
+[[slides]](Lecture 7 - Conditional Language Modeling.pdf)
 [video]
 
 ### Reading
