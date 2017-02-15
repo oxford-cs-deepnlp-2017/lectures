@@ -158,12 +158,16 @@ This lecture introduces Graphical Processing Units (GPUs) as an alternative to C
 * [Efficient softmax approximation for GPUs. Grave et al., arXiv 2016.](https://arxiv.org/abs/1609.04309)
 
 
-## 9. Lecture 7 - (Coming Soon) Conditional Language Models [Chris Dyer]
+## 9. Lecture 7 - Conditional Language Models [Chris Dyer]
+In this lecture we extend the concept of language modelling to incorpate prior information. By conditioning an RNN language model on an input representation we can generate contextually relevant language. This very general idea can be applied to transduce sequences into new sequences for tasks such as translation and summarisation, or images into captions describing their content.
+
 [[slides]](Lecture 7 - Conditional Language Modeling.pdf)
-[video]
+[[video]](https://ox.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=49b356f4-567c-471a-82b9-99efee068779)
 
 ### Reading
-* [Sutskever et al. (2014) Sequence to Sequence Learning with Neural Networks.](https://arxiv.org/abs/1409.3215)
+* [Recurrent Continuous Translation Models. Kalchbrenner and Blunsom, EMNLP 2013](http://anthology.aclweb.org/D/D13/D13-1176.pdf)
+* [Sequence to Sequence Learning with Neural Networks. Sutskever et al., NIPS 2014](https://arxiv.org/abs/1409.3215)
+* [Multimodal Neural Language Models. Kiros et al., ICML 2014](http://www.cs.toronto.edu/~rkiros/papers/mnlm2014.pdf)
 
 
 ## 10. Lecture 8 - (Coming Soon) Generating Language with Attention [Chris Dyer]
@@ -171,8 +175,8 @@ This lecture introduces Graphical Processing Units (GPUs) as an alternative to C
 [video]
 
 ### Reading
-* [Bahdanau et al. (2015) Neural Machine Translation by Jointly Learning to Align and Translate.](https://arxiv.org/abs/1409.0473)
-* [Xu et al. (2015) Show, Attend, and Tell: Neural Image Caption Generation with Visual Attention.](https://arxiv.org/pdf/1502.03044.pdf)
+* [Neural Machine Translation by Jointly Learning to Align and Translate. Bahdanau et al., ICLR 2015](https://arxiv.org/abs/1409.0473)
+* [Show, Attend, and Tell: Neural Image Caption Generation with Visual Attention. Xu et al., ICML 2015](https://arxiv.org/pdf/1502.03044.pdf)
 
 
 # Piazza
