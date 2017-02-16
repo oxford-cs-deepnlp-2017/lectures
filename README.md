@@ -168,6 +168,7 @@ In this lecture we extend the concept of language modelling to incorpate prior i
 * [Recurrent Continuous Translation Models. Kalchbrenner and Blunsom, EMNLP 2013](http://anthology.aclweb.org/D/D13/D13-1176.pdf)
 * [Sequence to Sequence Learning with Neural Networks. Sutskever et al., NIPS 2014](https://arxiv.org/abs/1409.3215)
 * [Multimodal Neural Language Models. Kiros et al., ICML 2014](http://www.cs.toronto.edu/~rkiros/papers/mnlm2014.pdf)
+* [Show and Tell: A Neural Image Caption Generator. Vinyals et al., CVPR 2015](https://arxiv.org/abs/1411.4555)
 
 
 ## 10. Lecture 8 - (Coming Soon) Generating Language with Attention [Chris Dyer]
