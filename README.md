@@ -171,7 +171,7 @@ In this lecture we extend the concept of language modelling to incorpate prior i
 
 
 ## 10. Lecture 8 - (Coming Soon) Generating Language with Attention [Chris Dyer]
-[slides]
+[[slides]](Lecture 8 - Conditional Language Modeling with Attention.pdf)
 [video]
 
 ### Reading
