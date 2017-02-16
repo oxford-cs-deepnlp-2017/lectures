@@ -177,6 +177,8 @@ In this lecture we extend the concept of language modelling to incorpate prior i
 ### Reading
 * [Neural Machine Translation by Jointly Learning to Align and Translate. Bahdanau et al., ICLR 2015](https://arxiv.org/abs/1409.0473)
 * [Show, Attend, and Tell: Neural Image Caption Generation with Visual Attention. Xu et al., ICML 2015](https://arxiv.org/pdf/1502.03044.pdf)
+* [Incorporating structural alignment biases into an attentional neural translation model. Cohn et al., NAACL 2016](http://www.aclweb.org/anthology/N16-1102)
+* [BLEU: a Method for Automatic Evaluation of Machine Translation. Papineni et al, ACL 2002](http://www.aclweb.org/anthology/P02-1040.pdf)
 
 
 # Piazza
