@@ -159,7 +159,7 @@ This lecture introduces Graphical Processing Units (GPUs) as an alternative to C
 
 
 ## 9. Lecture 7 - Conditional Language Models [Chris Dyer]
-In this lecture we extend the concept of language modelling to incorpate prior information. By conditioning an RNN language model on an input representation we can generate contextually relevant language. This very general idea can be applied to transduce sequences into new sequences for tasks such as translation and summarisation, or images into captions describing their content.
+In this lecture we extend the concept of language modelling to incorporate prior information. By conditioning an RNN language model on an input representation we can generate contextually relevant language. This very general idea can be applied to transduce sequences into new sequences for tasks such as translation and summarisation, or images into captions describing their content.
 
 [[slides]](Lecture 7 - Conditional Language Modeling.pdf)
 [[video]](https://ox.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=49b356f4-567c-471a-82b9-99efee068779)
