@@ -162,7 +162,7 @@ This lecture introduces Graphical Processing Units (GPUs) as an alternative to C
 In this lecture we extend the concept of language modelling to incorporate prior information. By conditioning an RNN language model on an input representation we can generate contextually relevant language. This very general idea can be applied to transduce sequences into new sequences for tasks such as translation and summarisation, or images into captions describing their content.
 
 [[slides]](Lecture 7 - Conditional Language Modeling.pdf)
-[[video]](https://ox.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=49b356f4-567c-471a-82b9-99efee068779)
+[[video]](http://media.podcasts.ox.ac.uk/comlab/deep_learning_NLP/2017-01_deep_NLP_7_conditional_lang_mod.mp4)
 
 ### Reading
 * [Recurrent Continuous Translation Models. Kalchbrenner and Blunsom, EMNLP 2013](http://anthology.aclweb.org/D/D13/D13-1176.pdf)
@@ -172,8 +172,10 @@ In this lecture we extend the concept of language modelling to incorporate prior
 
 
 ## 10. Lecture 8 - Generating Language with Attention [Chris Dyer]
+This lecture introduces one of the most important and influencial mechanisms employed in Deep Neural Networks: Attention. Attention augments recurrent networks with the ability to condition on specific parts of the input and is key to achieving high performance in tasks such as Machine Translation and Image Captioning.
+
 [[slides]](Lecture 8 - Conditional Language Modeling with Attention.pdf)
-[[video]](https://ox.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=76125f64-f650-43ff-ba61-13e775c599dd)
+[[video]](http://media.podcasts.ox.ac.uk/comlab/deep_learning_NLP/2017-01_deep_NLP_8_conditional_lang_mod_att.mp4)
 
 ### Reading
 * [Neural Machine Translation by Jointly Learning to Align and Translate. Bahdanau et al., ICLR 2015](https://arxiv.org/abs/1409.0473)
