@@ -184,6 +184,18 @@ This lecture introduces one of the most important and influencial mechanisms emp
 * [BLEU: a Method for Automatic Evaluation of Machine Translation. Papineni et al, ACL 2002](http://www.aclweb.org/anthology/P02-1040.pdf)
 
 
+## 11. Lecture 9 - (Coming Soon) Speech Recognition (ASR) [Andrew Senior]
+
+[slides]
+[video]
+
+
+## 11. Lecture 10 - (Coming Soon) Text to Speech (TTS) [Andrew Senior]
+
+[slides]
+[video]
+
+
 # Piazza
 We will be using Piazza to facilitate class discussion during the course. Rather than emailing questions directly, I encourage you to post your questions on Piazza to be answered by your fellow students, instructors, and lecturers. However do please do note that all the lecturers for this course are volunteering their time and may not always be available to give a response.
 
