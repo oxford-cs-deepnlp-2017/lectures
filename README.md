@@ -187,10 +187,10 @@ This lecture introduces one of the most important and influencial mechanisms emp
 ## 11. Lecture 9 - (Coming Soon) Speech Recognition (ASR) [Andrew Senior]
 
 [slides]
-[video]
+[[video]](https://ox.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=790fad4d-fc9b-48e8-bd6c-d5efd9eb6663)
 
 
-## 11. Lecture 10 - (Coming Soon) Text to Speech (TTS) [Andrew Senior]
+## 12. Lecture 10 - (Coming Soon) Text to Speech (TTS) [Andrew Senior]
 
 [slides]
 [video]
