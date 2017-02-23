@@ -184,9 +184,10 @@ This lecture introduces one of the most important and influencial mechanisms emp
 * [BLEU: a Method for Automatic Evaluation of Machine Translation. Papineni et al, ACL 2002](http://www.aclweb.org/anthology/P02-1040.pdf)
 
 
-## 11. Lecture 9 - (Coming Soon) Speech Recognition (ASR) [Andrew Senior]
+## 11. Lecture 9 - Speech Recognition (ASR) [Andrew Senior]
+Automatic Speech Recognition (ASR) is the task of transducing raw audio signals of spoken language into text transcriptions. This talk covers the history of ASR models, from Gaussian Mixtures to attention augmented RNNs, the basic linguistics of speech, and the various input and output representations frequently employed.
 
-[slides]
+[[slides]](Lecture 9 - Speech Recognition.pdf)
 [[video]](https://ox.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=790fad4d-fc9b-48e8-bd6c-d5efd9eb6663)
 
 
