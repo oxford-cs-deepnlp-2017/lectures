@@ -191,7 +191,7 @@ Automatic Speech Recognition (ASR) is the task of transducing raw audio signals 
 [[video]](https://ox.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=790fad4d-fc9b-48e8-bd6c-d5efd9eb6663)
 
 
-## 12. Lecture 10 - (Coming Soon) Text to Speech (TTS) [Andrew Senior]
+## 12. Lecture 10 - Text to Speech (TTS) [Andrew Senior]
 
 [[slides]](Lecture 10 - Text to Speech.pdf)
 [[video]](https://ox.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=0c1890bd-1ef6-4d32-b7e1-b43bf76b3dc8)
