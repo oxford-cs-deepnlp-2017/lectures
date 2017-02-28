@@ -192,9 +192,22 @@ Automatic Speech Recognition (ASR) is the task of transducing raw audio signals 
 
 
 ## 12. Lecture 10 - Text to Speech (TTS) [Andrew Senior]
+This lecture introduces algorithms for converting written language into spoken language (Text to Speech). TTS is the inverse process to ASR, but there are some important differences in the models applied. Here we review traditional TTS models, and then cover more recent neural approaches such as DeepMind's WaveNet model.
 
 [[slides]](Lecture 10 - Text to Speech.pdf)
 [[video]](https://ox.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=0c1890bd-1ef6-4d32-b7e1-b43bf76b3dc8)
+
+
+## 13. Lecture 11 - (Coming Soon) Question Answering [Karl Moritz Hermann]
+
+[slides]
+[video]
+
+
+## 14. Lecture 12 - (Coming Soon) Memory [Ed Grefenstette]
+
+[slides]
+[video]
 
 
 # Piazza
