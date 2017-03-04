@@ -198,19 +198,19 @@ This lecture introduces algorithms for converting written language into spoken l
 [[video]](https://ox.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=0c1890bd-1ef6-4d32-b7e1-b43bf76b3dc8)
 
 
-## 13. Lecture 11 - (Coming Soon) Question Answering [Karl Moritz Hermann]
+## 13. Lecture 11 - Question Answering [Karl Moritz Hermann]
 
-[slides]
-[video]
+[[slides]](Lecture 11 - Question Answering.pdf)
+[[video]](https://ox.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=94b57073-c01e-4bb5-8e34-57a8b600b140)
 
 ### Reading
 * [Teaching machines to read and comprehend. Hermann et al., NIPS 2015](http://papers.nips.cc/paper/5945-teaching-machines-to-read-and-comprehend)
 * [Deep Learning for Answer Sentence Selection. Yu et al., NIPS Deep Learning Workshop 2014](https://arxiv.org/abs/1412.1632)
 
-## 14. Lecture 12 - (Coming Soon) Memory [Ed Grefenstette]
+## 14. Lecture 12 - Memory [Ed Grefenstette]
 
 [[slides]](Lecture 12 - Memory Lecture.pdf)
-[video]
+[[video]](https://ox.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=84905060-007e-4710-86de-7e1b557a80e7)
 
 ### Reading
 * [Hybrid computing using a neural network with dynamic external memory. Graves et al., Nature 2016](http://www.nature.com/nature/journal/v538/n7626/abs/nature20101.html)
