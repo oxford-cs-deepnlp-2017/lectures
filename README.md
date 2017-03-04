@@ -209,7 +209,7 @@ This lecture introduces algorithms for converting written language into spoken l
 
 ## 14. Lecture 12 - Memory [Ed Grefenstette]
 
-[[slides]](Lecture 12 - Memory Lecture.pdf)
+[[slides]](Lecture 12- Memory Lecture.pdf)
 [[video]](https://ox.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=84905060-007e-4710-86de-7e1b557a80e7)
 
 ### Reading
