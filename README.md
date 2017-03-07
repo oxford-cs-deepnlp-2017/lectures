@@ -33,7 +33,7 @@ This course is organised by Phil Blunsom and delivered in partnership with the D
 4. [Practical 4: open practical](https://github.com/oxford-cs-deepnlp-2017/practical-open)
 
 ## Lectures
-Public Lectures are held in Lecture Theatre 1 of the Maths Institute, on Tuesdays and Thursdays, 16:00-18:00 (Hilary Term Weeks 1,3-8).
+Public Lectures are held in Lecture Theatre 1 of the Maths Institute, on Tuesdays and Thursdays (except week 8), 16:00-18:00 (Hilary Term Weeks 1,3-8).
 
 # Lecture Materials
 ## 1. Lecture 1a - Introduction [Phil Blunsom]
