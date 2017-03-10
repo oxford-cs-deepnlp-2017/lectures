@@ -207,10 +207,17 @@ This lecture introduces algorithms for converting written language into spoken l
 * [Teaching machines to read and comprehend. Hermann et al., NIPS 2015](http://papers.nips.cc/paper/5945-teaching-machines-to-read-and-comprehend)
 * [Deep Learning for Answer Sentence Selection. Yu et al., NIPS Deep Learning Workshop 2014](https://arxiv.org/abs/1412.1632)
 
+
 ## 14. Lecture 12 - Memory [Ed Grefenstette]
 
 [[slides]](Lecture 12- Memory Lecture.pdf)
 [[video]](https://ox.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=84905060-007e-4710-86de-7e1b557a80e7)
+
+
+## 15. Lecture 13 - Linguistic Knowledge in Neural Networks
+
+[slides]
+[[video]](https://ox.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=78e96cab-8b93-410e-95c3-70ece41a6bcd)
 
 ### Reading
 * [Hybrid computing using a neural network with dynamic external memory. Graves et al., Nature 2016](http://www.nature.com/nature/journal/v538/n7626/abs/nature20101.html)
