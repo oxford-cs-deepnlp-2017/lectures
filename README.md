@@ -188,20 +188,20 @@ This lecture introduces one of the most important and influencial mechanisms emp
 Automatic Speech Recognition (ASR) is the task of transducing raw audio signals of spoken language into text transcriptions. This talk covers the history of ASR models, from Gaussian Mixtures to attention augmented RNNs, the basic linguistics of speech, and the various input and output representations frequently employed.
 
 [[slides]](Lecture 9 - Speech Recognition.pdf)
-[[video]](https://ox.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=790fad4d-fc9b-48e8-bd6c-d5efd9eb6663)
+[[video]](http://media.podcasts.ox.ac.uk/comlab/deep_learning_NLP/2017-01_deep_NLP_9_speech_recognition.mp4)
 
 
 ## 12. Lecture 10 - Text to Speech (TTS) [Andrew Senior]
 This lecture introduces algorithms for converting written language into spoken language (Text to Speech). TTS is the inverse process to ASR, but there are some important differences in the models applied. Here we review traditional TTS models, and then cover more recent neural approaches such as DeepMind's WaveNet model.
 
 [[slides]](Lecture 10 - Text to Speech.pdf)
-[[video]](https://ox.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=0c1890bd-1ef6-4d32-b7e1-b43bf76b3dc8)
+[[video]](http://media.podcasts.ox.ac.uk/comlab/deep_learning_NLP/2017-01_deep_NLP_10_text_speech.mp4)
 
 
 ## 13. Lecture 11 - Question Answering [Karl Moritz Hermann]
 
 [[slides]](Lecture 11 - Question Answering.pdf)
-[[video]](https://ox.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=94b57073-c01e-4bb5-8e34-57a8b600b140)
+[[video]](http://media.podcasts.ox.ac.uk/comlab/deep_learning_NLP/2017-01_deep_NLP_11_question_answering.mp4)
 
 ### Reading
 * [Teaching machines to read and comprehend. Hermann et al., NIPS 2015](http://papers.nips.cc/paper/5945-teaching-machines-to-read-and-comprehend)
@@ -211,19 +211,20 @@ This lecture introduces algorithms for converting written language into spoken l
 ## 14. Lecture 12 - Memory [Ed Grefenstette]
 
 [[slides]](Lecture 12- Memory Lecture.pdf)
-[[video]](https://ox.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=84905060-007e-4710-86de-7e1b557a80e7)
-
-
-## 15. Lecture 13 - Linguistic Knowledge in Neural Networks
-
-[slides]
-[[video]](https://ox.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=78e96cab-8b93-410e-95c3-70ece41a6bcd)
+[[video]](http://media.podcasts.ox.ac.uk/comlab/deep_learning_NLP/2017-01_deep_NLP_12_memory.mp4)
 
 ### Reading
 * [Hybrid computing using a neural network with dynamic external memory. Graves et al., Nature 2016](http://www.nature.com/nature/journal/v538/n7626/abs/nature20101.html)
 * [Reasoning about Entailment with Neural Attention. Rocktäschel et al., ICLR 2016](https://arxiv.org/abs/1509.06664)
 * [Learning to transduce with unbounded memory. Grefenstette et al., NIPS 2015](http://papers.nips.cc/paper/5648-learning-to-transduce-with-unbounded-memory)
 * [End-to-End Memory Networks. Sukhbaatar et al., NIPS 2015](https://arxiv.org/abs/1503.08895)
+
+
+## 15. Lecture 13 - Linguistic Knowledge in Neural Networks
+
+[slides]
+[[video]](http://media.podcasts.ox.ac.uk/comlab/deep_learning_NLP/2017-01_deep_NLP_13_linguistic_knowledge_neural.mp4)
+
 
 # Piazza
 We will be using Piazza to facilitate class discussion during the course. Rather than emailing questions directly, I encourage you to post your questions on Piazza to be answered by your fellow students, instructors, and lecturers. However do please do note that all the lecturers for this course are volunteering their time and may not always be available to give a response.
