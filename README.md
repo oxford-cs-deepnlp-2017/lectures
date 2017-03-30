@@ -102,7 +102,7 @@ Language modelling is important task of great practical use in many NLP applicat
 ## 6. Lecture 4 - Language Modelling and RNNs Part 2 [Phil Blunsom]
 This lecture continues on from the previous one and considers some of the issues involved in producing an effective implementation of an RNN language model. The vanishing and exploding gradient problem is described and architectural solutions, such as Long Short Term Memory (LSTM), are introduced. 
 
-[[slides]](Lecture 4 - Language Modelling and RNNs Part 2.pdf)
+[[slides]](Lecture%204%20-%20Language%20Modelling%20and%20RNNs%20Part%202.pdf)
 [[video]](http://media.podcasts.ox.ac.uk/comlab/deep_learning_NLP/2017-01_deep_NLP_4_modelling_2.mp4)
 
 ### Reading
