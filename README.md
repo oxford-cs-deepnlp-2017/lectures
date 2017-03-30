@@ -39,19 +39,19 @@ Public Lectures are held in Lecture Theatre 1 of the Maths Institute, on Tuesday
 ## 1. Lecture 1a - Introduction [Phil Blunsom]
 This lecture introduces the course and motivates why it is interesting to study language processing using Deep Learning techniques.
 
-[[slides]](Lecture 1a - Introduction.pdf)
+[[slides]](Lecture%201a%20-%20Introduction.pdf)
 [[video]](http://media.podcasts.ox.ac.uk/comlab/deep_learning_NLP/2017-01_deep_NLP_1a_intro.mp4)
 
 ## 2. Lecture 1b - Deep Neural Networks Are Our Friends [Wang Ling]
 This lecture revises basic machine learning concepts that students should know before embarking on this course.
 
-[[slides]](Lecture 1b - Deep Neural Networks Are Our Friends.pdf)
+[[slides]](Lecture%201b%20-%20Deep%20Neural%20Networks%20Are%20Our%20Friends.pdf)
 [[video]](http://media.podcasts.ox.ac.uk/comlab/deep_learning_NLP/2017-01_deep_NLP_1b_friends.mp4)
 
 ## 3. Lecture 2a- Word Level Semantics [Ed Grefenstette]
 Words are the core meaning bearing units in language. Representing and learning the meanings of words is a fundamental task in NLP and in this lecture the concept of a word embedding is introduced as a practical and scalable solution.
 
-[[slides]](Lecture 2a- Word Level Semantics.pdf)
+[[slides]](Lecture%202a%20-%20Word%20Level%20Semantics.pdf)
 [[video]](http://media.podcasts.ox.ac.uk/comlab/deep_learning_NLP/2017-01_deep_NLP_2a_lexical_semantics.mp4)
 
 ### Reading
@@ -80,13 +80,13 @@ Words are the core meaning bearing units in language. Representing and learning 
 ## 4. Lecture 2b - Overview of the Practicals [Chris Dyer]
 This lecture motivates the practical segment of the course.
 
-[[slides]](Lecture 2b - Overview of the Practicals.pdf)
+[[slides]](Lecture%202b%20-%20Overview%20of%20the%20Practicals.pdf)
 [[video]](http://media.podcasts.ox.ac.uk/comlab/deep_learning_NLP/2017-01_deep_NLP_2b_practicals.mp4)
 
 ## 5. Lecture 3 - Language Modelling and RNNs Part 1 [Phil Blunsom]
 Language modelling is important task of great practical use in many NLP applications. This lecture introduces language modelling, including traditional n-gram based approaches and more contemporary neural approaches. In particular the popular Recurrent Neural Network (RNN) language model is introduced and its basic training and evaluation algorithms described.
 
-[[slides]](Lecture 3 - Language Modelling and RNNs Part 1.pdf)
+[[slides]](Lecture%203%20-%20Language%20Modelling%20and%20RNNs%20Part%201.pdf)
 [[video]](http://media.podcasts.ox.ac.uk/comlab/deep_learning_NLP/2017-01_deep_NLP_3_modelling_1.mp4)
 
 ### Reading
@@ -136,7 +136,7 @@ This lecture continues on from the previous one and considers some of the issues
 ## 7. Lecture 5 - Text Classification [Karl Moritz Hermann]
 This lecture discusses text classification, beginning with basic classifiers, such as Naive Bayes, and progressing through to RNNs and Convolution Networks.
 
-[[slides]](Lecture 5 - Text Classification.pdf) 
+[[slides]](Lecture%205%20-%20Text%20Classification.pdf) 
 [[video]](http://media.podcasts.ox.ac.uk/comlab/deep_learning_NLP/2017-01_deep_NLP_5_text_classification.mp4)
 
 ### Reading
@@ -149,7 +149,7 @@ This lecture discusses text classification, beginning with basic classifiers, su
 ## 8. Lecture 6 - Deep NLP on Nvidia GPUs [Jeremy Appleyard]
 This lecture introduces Graphical Processing Units (GPUs) as an alternative to CPUs for executing Deep Learning algorithms. The strengths and weaknesses of GPUs are discussed as well as the importance of understanding how memory bandwidth and computation impact throughput for RNNs.
 
-[[slides]](Lecture 6 - Nvidia RNNs and GPUs.pdf)
+[[slides]](Lecture%206%20-%20Nvidia%20RNNs%20and%20GPUs.pdf)
 [[video]](http://media.podcasts.ox.ac.uk/comlab/deep_learning_NLP/2017-01_deep_NLP_6_nvidia_gpus.mp4)
 
 ### Reading
@@ -161,7 +161,7 @@ This lecture introduces Graphical Processing Units (GPUs) as an alternative to C
 ## 9. Lecture 7 - Conditional Language Models [Chris Dyer]
 In this lecture we extend the concept of language modelling to incorporate prior information. By conditioning an RNN language model on an input representation we can generate contextually relevant language. This very general idea can be applied to transduce sequences into new sequences for tasks such as translation and summarisation, or images into captions describing their content.
 
-[[slides]](Lecture 7 - Conditional Language Modeling.pdf)
+[[slides]](Lecture%207%20-%20Conditional%20Language%20Modeling.pdf)
 [[video]](http://media.podcasts.ox.ac.uk/comlab/deep_learning_NLP/2017-01_deep_NLP_7_conditional_lang_mod.mp4)
 
 ### Reading
@@ -174,7 +174,7 @@ In this lecture we extend the concept of language modelling to incorporate prior
 ## 10. Lecture 8 - Generating Language with Attention [Chris Dyer]
 This lecture introduces one of the most important and influencial mechanisms employed in Deep Neural Networks: Attention. Attention augments recurrent networks with the ability to condition on specific parts of the input and is key to achieving high performance in tasks such as Machine Translation and Image Captioning.
 
-[[slides]](Lecture 8 - Conditional Language Modeling with Attention.pdf)
+[[slides]](Lecture%208%20-%20Conditional%20Language%20Modeling%20with%20Attention.pdf)
 [[video]](http://media.podcasts.ox.ac.uk/comlab/deep_learning_NLP/2017-01_deep_NLP_8_conditional_lang_mod_att.mp4)
 
 ### Reading
@@ -187,20 +187,20 @@ This lecture introduces one of the most important and influencial mechanisms emp
 ## 11. Lecture 9 - Speech Recognition (ASR) [Andrew Senior]
 Automatic Speech Recognition (ASR) is the task of transducing raw audio signals of spoken language into text transcriptions. This talk covers the history of ASR models, from Gaussian Mixtures to attention augmented RNNs, the basic linguistics of speech, and the various input and output representations frequently employed.
 
-[[slides]](Lecture 9 - Speech Recognition.pdf)
+[[slides]](Lecture%209%20-%20Speech%20Recognition.pdf)
 [[video]](http://media.podcasts.ox.ac.uk/comlab/deep_learning_NLP/2017-01_deep_NLP_9_speech_recognition.mp4)
 
 
 ## 12. Lecture 10 - Text to Speech (TTS) [Andrew Senior]
 This lecture introduces algorithms for converting written language into spoken language (Text to Speech). TTS is the inverse process to ASR, but there are some important differences in the models applied. Here we review traditional TTS models, and then cover more recent neural approaches such as DeepMind's WaveNet model.
 
-[[slides]](Lecture 10 - Text to Speech.pdf)
+[[slides]](Lecture%2010%20-%20Text%20to%20Speech.pdf)
 [[video]](http://media.podcasts.ox.ac.uk/comlab/deep_learning_NLP/2017-01_deep_NLP_10_text_speech.mp4)
 
 
 ## 13. Lecture 11 - Question Answering [Karl Moritz Hermann]
 
-[[slides]](Lecture 11 - Question Answering.pdf)
+[[slides]](Lecture%2011%20-%20Question%20Answering.pdf)
 [[video]](http://media.podcasts.ox.ac.uk/comlab/deep_learning_NLP/2017-01_deep_NLP_11_question_answering.mp4)
 
 ### Reading
@@ -210,7 +210,7 @@ This lecture introduces algorithms for converting written language into spoken l
 
 ## 14. Lecture 12 - Memory [Ed Grefenstette]
 
-[[slides]](Lecture 12- Memory Lecture.pdf)
+[[slides]](Lecture%2012%20-%20Memory%20Lecture.pdf)
 [[video]](http://media.podcasts.ox.ac.uk/comlab/deep_learning_NLP/2017-01_deep_NLP_12_memory.mp4)
 
 ### Reading
