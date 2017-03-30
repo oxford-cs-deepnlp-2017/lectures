@@ -51,7 +51,7 @@ This lecture revises basic machine learning concepts that students should know b
 ## 3. Lecture 2a- Word Level Semantics [Ed Grefenstette]
 Words are the core meaning bearing units in language. Representing and learning the meanings of words is a fundamental task in NLP and in this lecture the concept of a word embedding is introduced as a practical and scalable solution.
 
-[[slides]](Lecture%202a%20-%20Word%20Level%20Semantics.pdf)
+[[slides]](Lecture%202a-%20Word%20Level%20Semantics.pdf)
 [[video]](http://media.podcasts.ox.ac.uk/comlab/deep_learning_NLP/2017-01_deep_NLP_2a_lexical_semantics.mp4)
 
 ### Reading
@@ -210,7 +210,7 @@ This lecture introduces algorithms for converting written language into spoken l
 
 ## 14. Lecture 12 - Memory [Ed Grefenstette]
 
-[[slides]](Lecture%2012%20-%20Memory%20Lecture.pdf)
+[[slides]](Lecture%2012-%20Memory%20Lecture.pdf)
 [[video]](http://media.podcasts.ox.ac.uk/comlab/deep_learning_NLP/2017-01_deep_NLP_12_memory.mp4)
 
 ### Reading
