@@ -222,7 +222,7 @@ This lecture introduces algorithms for converting written language into spoken l
 
 ## 15. Lecture 13 - Linguistic Knowledge in Neural Networks
 
-[slides]
+[[slides]](Lecture 13 - Linguistics.pdf)
 [[video]](http://media.podcasts.ox.ac.uk/comlab/deep_learning_NLP/2017-01_deep_NLP_13_linguistic_knowledge_neural.mp4)
 
 
